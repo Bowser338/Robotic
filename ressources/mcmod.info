@@ -1,0 +1,16 @@
+[
+{
+  "modid": "roboticmod",
+  "name": "Robotic Mod",
+  "description": "Mod rajoutant la robotique dans Minecraft",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "https://www.youtube.com/user/TheBowser338",
+  "updateUrl": "",
+  "authorList": ["Bowser338", "Turoka96"],
+  "credits": "Mod par Bowser338 et Turoka96",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
