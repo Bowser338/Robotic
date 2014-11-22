@@ -1,0 +1,15 @@
+{
+  "fourarc": {
+    "category": "block",
+    "sounds": [
+      "block/arc_electrique"
+    ]
+  },
+  
+  "defect": {
+      "category": "block",
+    "sounds": [
+      "music/defect"
+    ]
+   }
+}

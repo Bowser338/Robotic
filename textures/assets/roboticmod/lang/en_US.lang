@@ -7,4 +7,13 @@ item.lithiumdust.name=Lithium Dust
 tile.fourarc.name=Arc Furnace
 tile.resine_feuilles.name=Resin Leaves
 tile.resine_bois.name=Resin Wood
+tile.siliciumore.name=Silicium Ore
+item.swordMKI.name=MKI Sword
+item.swordMKII.name=MKII Sword
+item.roboticmodcustom_chest.name=MKI Chestplate
+item.roboticmodcustom_legs.name=MKI Leggings
+tile.chargeursansnoyau.name=Core Loader
+itemGroup.base_creative_tab=Robotic Tab
+container.macerator=Four a Arc
+
 
